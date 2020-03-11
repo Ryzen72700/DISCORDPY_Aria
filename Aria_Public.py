@@ -1,7 +1,8 @@
 # 패치노트.
 # rev 1.0 - 봇생성 / 기타 잡다한 기능 추가
 # rev 1.1 - timestamp추가 / 
-
+# [ 필독 필독 필독 필독 필독 ] 주석처리 되어있는거 버그났거나 안쓰는겁니다.
+# [ 필독 2 2 2 2 2 2 ] 해당 소스는 수정이 매우 많이(?) 필요
 
 import discord
 from discord.ext import commands
